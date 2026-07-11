@@ -4,7 +4,7 @@ These dotfiles are used to set up Ubuntu-GNOME systems (you can slightly modify 
 ```ssh
 # Clone the repository
 git clone https://github.com/DanieleBertagnoli/UbuntuDotfiles.git
-cd LinuxDotfiles
+cd UbuntuDotfiles
 
 # Make the script executable
 sudo chmod +x install.sh
