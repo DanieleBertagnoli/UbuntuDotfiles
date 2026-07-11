@@ -1,4 +1,4 @@
-# Ubuntu dotfiles &nbsp; <img src="Images/ubuntu.png" width="30">
+# Ubuntu dotfiles &nbsp; <img src="ubuntu.png" width="30">
 These dotfiles are used to set up Ubuntu-GNOME systems (you can slightly modify some commands to adapt it to any Debian-based distribution). To run the setup, simply run the commands:
 
 ```ssh
