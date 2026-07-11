@@ -3,14 +3,14 @@ These dotfiles are used to set up Ubuntu-GNOME systems (you can slightly modify 
 
 ```ssh
 # Clone the repository
-git clone https://github.com/DanieleBertagnoli/LinuxDotfiles
+git clone https://github.com/DanieleBertagnoli/UbuntuDotfiles.git
 cd LinuxDotfiles
 
 # Make the script executable
-sudo chmod +x Ubuntu/install.sh
+sudo chmod +x install.sh
 
 # Run the script
-./Ubuntu/install.sh
+./install.sh
 ```
 
 ## Select Themes
